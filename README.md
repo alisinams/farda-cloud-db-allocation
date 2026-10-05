@@ -1,5 +1,7 @@
 # FARDA: forecast-driven mixed-integer request allocation for cloud database replicas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23168521.svg)](https://doi.org/10.5281/zenodo.23168521)
+
 Code, configuration and results of the trace-driven evaluation reported in the manuscript
 *Forecast-driven mixed-integer request allocation for multi-tenant cloud database replicas evaluated on PlanetLab traces* (submitted for publication).
 
@@ -86,4 +88,7 @@ are not redistributed here and are not covered by this licence.
 ## Citation
 
 Please cite the accompanying article (details will be added on publication) and the archived release of this
-repository (DOI to be added).
+repository:
+
+* Release v1.0.0, the version used for the manuscript: https://doi.org/10.5281/zenodo.23168521
+* All versions (resolves to the latest release): https://doi.org/10.5281/zenodo.23168520
