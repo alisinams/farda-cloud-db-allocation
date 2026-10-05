@@ -1,0 +1,23 @@
+{
+ "figure": "Fig1",
+ "script": "fig1_surge.py",
+ "palette": "ASE file Ocean Sunset.ase",
+ "final_width_mm": 174,
+ "design_width_in": 8.56,
+ "print_scale": 0.816,
+ "min_text_pt": 9.8,
+ "max_text_pt": 13.1,
+ "qc": "overlaps 0 | legends outside | palette OK | 8 pt floor OK | exports verified (6 files)",
+ "encodes": "(a) median over seeds with interquartile range; (b) one point per seed, median (vertical bar) and interquartile range (horizontal bar); n = 30 per cell; log axes",
+ "exceptions": [
+  "Springer overrides: 174 mm, print scale 0.80 (8 pt floor), lowercase panel letters, file stem Fig1"
+ ],
+ "files": [
+  "Fig1_white.pdf",
+  "Fig1_white.tiff",
+  "Fig1_white.png",
+  "Fig1_transparent.pdf",
+  "Fig1_transparent.tiff",
+  "Fig1_transparent.png"
+ ]
+}

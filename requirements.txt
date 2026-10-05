@@ -1,0 +1,10 @@
+# Versions used for the reported results (Python 3.13.1, Windows 11; a CUDA GPU was used for the LSTM study)
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+statsmodels==0.14.6
+torch==2.11.0
+lightgbm==4.7.0
+highspy==1.15.1
+numba==0.66.0
+matplotlib==3.11.0

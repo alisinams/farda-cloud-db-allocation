@@ -1,0 +1,24 @@
+{
+ "figure": "Fig2",
+ "script": "fig2_commit_delay.py",
+ "palette": "ASE file Ocean Sunset.ase",
+ "final_width_mm": 174,
+ "design_width_in": 8.56,
+ "print_scale": 0.816,
+ "min_text_pt": 9.8,
+ "max_text_pt": 13.1,
+ "qc": "overlaps 0 | legends outside | palette OK | 8 pt floor OK | exports verified (6 files)",
+ "encodes": "mean and 95% confidence interval; (a) steady regime, n = 30 seeds per OH value; (b) adversarial regime, n = 10 seeds per OH value; symmetric-log OH axis (linear below 0.01 s)",
+ "exceptions": [
+  "Springer overrides: 174 mm, print scale 0.80 (8 pt floor), lowercase panel letters, file stem Fig2",
+  "no legend: single series per panel (SVIS 8, rule 1)"
+ ],
+ "files": [
+  "Fig2_white.pdf",
+  "Fig2_white.tiff",
+  "Fig2_white.png",
+  "Fig2_transparent.pdf",
+  "Fig2_transparent.tiff",
+  "Fig2_transparent.png"
+ ]
+}

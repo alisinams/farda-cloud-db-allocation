@@ -1,0 +1,23 @@
+{
+ "figure": "Fig4",
+ "script": "fig4_weight_sweep.py",
+ "palette": "ASE file Ocean Sunset.ase",
+ "final_width_mm": 174,
+ "design_width_in": 8.56,
+ "print_scale": 0.816,
+ "min_text_pt": 9.8,
+ "max_text_pt": 13.1,
+ "qc": "overlaps 0 | legends outside | palette OK | 8 pt floor OK | exports verified (6 files)",
+ "encodes": "means over 3 seeds per triple; dominance on (exposure, latency); shared logarithmic latency axis",
+ "exceptions": [
+  "Springer overrides: 174 mm, print scale 0.80 (8 pt floor), lowercase panel letters, file stem Fig4"
+ ],
+ "files": [
+  "Fig4_white.pdf",
+  "Fig4_white.tiff",
+  "Fig4_white.png",
+  "Fig4_transparent.pdf",
+  "Fig4_transparent.tiff",
+  "Fig4_transparent.png"
+ ]
+}

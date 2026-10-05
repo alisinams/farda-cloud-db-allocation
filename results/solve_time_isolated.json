@@ -1,0 +1,1298 @@
+[
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 0,
+  "runtime": 1.3908020000017132,
+  "mip_gap": 2.0149297488632717e-06,
+  "time_limit_hit": false,
+  "int_vars": 294
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 12,
+  "runtime": 0.5262471000023652,
+  "mip_gap": 0.000554363368012656,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 24,
+  "runtime": 1.715749400005734,
+  "mip_gap": 1.9967372949339747e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 36,
+  "runtime": 0.493792500004929,
+  "mip_gap": 0.0007480126786155963,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 48,
+  "runtime": 0.5333916999952635,
+  "mip_gap": 0.0006266612827234129,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 60,
+  "runtime": 1.186687699999311,
+  "mip_gap": 1.628447483078704e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 72,
+  "runtime": 1.2621486999996705,
+  "mip_gap": 2.9240484754450896e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 84,
+  "runtime": 1.2096454000056838,
+  "mip_gap": 6.171058859153186e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 96,
+  "runtime": 1.13733990000037,
+  "mip_gap": 2.3400081956236282e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 108,
+  "runtime": 0.6007408000004943,
+  "mip_gap": 0.0005178205887143801,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 120,
+  "runtime": 1.5817987999980687,
+  "mip_gap": 1.3948289617198453e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 132,
+  "runtime": 1.2355076000021654,
+  "mip_gap": 7.597768870691328e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 144,
+  "runtime": 1.499860299998545,
+  "mip_gap": 1.8144586097518125e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 156,
+  "runtime": 1.1233217000044533,
+  "mip_gap": 2.7045373355607368e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 168,
+  "runtime": 1.639392000004591,
+  "mip_gap": 1.8281207889674926e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 180,
+  "runtime": 1.1839777000059257,
+  "mip_gap": 1.7897544067991474e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 192,
+  "runtime": 1.4639282999996794,
+  "mip_gap": 4.943221116985155e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 204,
+  "runtime": 0.9330128000001423,
+  "mip_gap": 2.118190900644044e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 216,
+  "runtime": 1.2352830000018002,
+  "mip_gap": 7.032747202253457e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 228,
+  "runtime": 0.40281510000204435,
+  "mip_gap": 0.0009727022046297533,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 240,
+  "runtime": 1.0792480999953113,
+  "mip_gap": 1.387400103992935e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 252,
+  "runtime": 1.1226408000002266,
+  "mip_gap": 4.5457090194973745e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 264,
+  "runtime": 1.1815147000015713,
+  "mip_gap": 1.0978802089694886e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 0,
+  "interval": 276,
+  "runtime": 0.4872389999945881,
+  "mip_gap": 0.0009069413650743431,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 0,
+  "runtime": 0.7329778999992413,
+  "mip_gap": 2.411685444904912e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 12,
+  "runtime": 0.9739832999985083,
+  "mip_gap": 2.5222036160606897e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 24,
+  "runtime": 0.8546215999958804,
+  "mip_gap": 8.717245921017306e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 36,
+  "runtime": 0.9135619000007864,
+  "mip_gap": 1.3044773122954233e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 48,
+  "runtime": 1.1474385999972583,
+  "mip_gap": 1.2549645141267276e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 60,
+  "runtime": 1.2955540000039036,
+  "mip_gap": 4.0892062919106864e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 72,
+  "runtime": 0.6478702999957022,
+  "mip_gap": 6.888694758587335e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 84,
+  "runtime": 0.5783563000004506,
+  "mip_gap": 5.820041213410894e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 96,
+  "runtime": 0.6662013000022853,
+  "mip_gap": 8.449233727360886e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 108,
+  "runtime": 0.6751385000025039,
+  "mip_gap": 5.0543257478271035e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 120,
+  "runtime": 0.9445503000024473,
+  "mip_gap": 2.451324396365821e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 132,
+  "runtime": 0.9818519000036758,
+  "mip_gap": 5.117240563161591e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 144,
+  "runtime": 0.7574921999985236,
+  "mip_gap": 4.798796056421605e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 156,
+  "runtime": 0.5544430000009015,
+  "mip_gap": 0.0,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 168,
+  "runtime": 0.8658706999995047,
+  "mip_gap": 0.0,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 180,
+  "runtime": 1.1077537999954075,
+  "mip_gap": 2.2092508259586253e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 192,
+  "runtime": 1.0795285000058357,
+  "mip_gap": 1.3231273271003596e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 204,
+  "runtime": 0.5847865000032471,
+  "mip_gap": 1.4070129055751963e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 216,
+  "runtime": 0.6655802999957814,
+  "mip_gap": 4.804678221347116e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 228,
+  "runtime": 0.8595229999991716,
+  "mip_gap": 4.822596426359923e-07,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 240,
+  "runtime": 1.2033405999973183,
+  "mip_gap": 1.1983475195991739e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 252,
+  "runtime": 0.6741465000013704,
+  "mip_gap": 1.8848222650761425e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 264,
+  "runtime": 1.1335701000061817,
+  "mip_gap": 0.0,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 10,
+  "seed": 1,
+  "interval": 276,
+  "runtime": 1.16740690000006,
+  "mip_gap": 1.5995555773572114e-06,
+  "time_limit_hit": false,
+  "int_vars": 300
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 0,
+  "runtime": 5.063671900003101,
+  "mip_gap": 0.006479291522581763,
+  "time_limit_hit": true,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 12,
+  "runtime": 4.0420768999974825,
+  "mip_gap": 2.4349091026739362e-06,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 24,
+  "runtime": 3.7513609000016004,
+  "mip_gap": 8.505637850119762e-07,
+  "time_limit_hit": false,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 36,
+  "runtime": 4.533221900004719,
+  "mip_gap": 8.572365629880673e-07,
+  "time_limit_hit": false,
+  "int_vars": 888
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 48,
+  "runtime": 5.035044500000367,
+  "mip_gap": 0.00832828242326041,
+  "time_limit_hit": true,
+  "int_vars": 888
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 60,
+  "runtime": 4.467519400001038,
+  "mip_gap": 3.1298630232223183e-06,
+  "time_limit_hit": false,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 72,
+  "runtime": 4.534420500000124,
+  "mip_gap": 7.115500338508313e-07,
+  "time_limit_hit": false,
+  "int_vars": 888
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 84,
+  "runtime": 5.03218840000045,
+  "mip_gap": 2.4883866703652282e-06,
+  "time_limit_hit": true,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 96,
+  "runtime": 4.991406799999822,
+  "mip_gap": 2.568132846829926e-07,
+  "time_limit_hit": false,
+  "int_vars": 888
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 108,
+  "runtime": 4.149705499999982,
+  "mip_gap": 5.195250403953043e-06,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 120,
+  "runtime": 3.644869199997629,
+  "mip_gap": 1.4329789385403769e-06,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 132,
+  "runtime": 4.158116500002507,
+  "mip_gap": 3.1839868382345276e-06,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 144,
+  "runtime": 5.097998099998222,
+  "mip_gap": 0.00827067137842894,
+  "time_limit_hit": true,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 156,
+  "runtime": 4.7097704999978305,
+  "mip_gap": 7.058746912205663e-07,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 168,
+  "runtime": 5.0138521999979275,
+  "mip_gap": 4.688036824465966e-07,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 180,
+  "runtime": 3.6772583999991184,
+  "mip_gap": 7.799040030010529e-07,
+  "time_limit_hit": false,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 192,
+  "runtime": 4.695130600004632,
+  "mip_gap": 1.525154660016523e-06,
+  "time_limit_hit": false,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 204,
+  "runtime": 4.177434800003539,
+  "mip_gap": 1.4292895152958832e-06,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 216,
+  "runtime": 3.9157651999994414,
+  "mip_gap": 6.061075262172273e-07,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 228,
+  "runtime": 3.233103200000187,
+  "mip_gap": 4.622086445741566e-07,
+  "time_limit_hit": false,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 240,
+  "runtime": 4.838056400003552,
+  "mip_gap": 1.5655401424126984e-06,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 252,
+  "runtime": 5.166673300002003,
+  "mip_gap": 0.007357077417331409,
+  "time_limit_hit": true,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 264,
+  "runtime": 4.06513950000226,
+  "mip_gap": 1.0033493013729397e-06,
+  "time_limit_hit": false,
+  "int_vars": 900
+ },
+ {
+  "n_hosts": 30,
+  "seed": 0,
+  "interval": 276,
+  "runtime": 3.993305000003602,
+  "mip_gap": 1.7286644712000315e-05,
+  "time_limit_hit": false,
+  "int_vars": 894
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 0,
+  "runtime": 3.9839819999979227,
+  "mip_gap": 2.079188346096514e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 12,
+  "runtime": 4.094703700000537,
+  "mip_gap": 3.804590326055162e-07,
+  "time_limit_hit": false,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 24,
+  "runtime": 4.8966571999990265,
+  "mip_gap": 4.107615619898024e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 36,
+  "runtime": 4.441016000004311,
+  "mip_gap": 3.07123755046021e-07,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 48,
+  "runtime": 4.2772717000043485,
+  "mip_gap": 4.050658733245575e-07,
+  "time_limit_hit": false,
+  "int_vars": 888
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 60,
+  "runtime": 4.866416899996693,
+  "mip_gap": 6.305206753650398e-07,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 72,
+  "runtime": 4.836859399998502,
+  "mip_gap": 2.1753376516867048e-05,
+  "time_limit_hit": false,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 84,
+  "runtime": 3.047483700000157,
+  "mip_gap": 7.225802007302204e-07,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 96,
+  "runtime": 4.402003800001694,
+  "mip_gap": 1.938928801593905e-06,
+  "time_limit_hit": false,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 108,
+  "runtime": 4.988660899995011,
+  "mip_gap": 8.065157678347346e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 120,
+  "runtime": 4.0371027999935905,
+  "mip_gap": 2.039376896184349e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 132,
+  "runtime": 5.196988499999861,
+  "mip_gap": 2.6043952682529322e-05,
+  "time_limit_hit": true,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 144,
+  "runtime": 4.768493399998988,
+  "mip_gap": 2.974818469615872e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 156,
+  "runtime": 3.4768388000011328,
+  "mip_gap": 4.505023850929096e-07,
+  "time_limit_hit": false,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 168,
+  "runtime": 5.034882200001448,
+  "mip_gap": 0.0019581487611817524,
+  "time_limit_hit": true,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 180,
+  "runtime": 3.1203246000004583,
+  "mip_gap": 2.067902344823791e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 192,
+  "runtime": 4.647801800005254,
+  "mip_gap": 4.2898766328460294e-07,
+  "time_limit_hit": false,
+  "int_vars": 888
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 204,
+  "runtime": 3.5713346999982605,
+  "mip_gap": 8.577350563167491e-07,
+  "time_limit_hit": false,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 216,
+  "runtime": 5.027710700000171,
+  "mip_gap": 5.899788119006032e-06,
+  "time_limit_hit": true,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 228,
+  "runtime": 3.7945217000014964,
+  "mip_gap": 1.4032235413139313e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 240,
+  "runtime": 5.0343292000034126,
+  "mip_gap": 3.97177649613315e-06,
+  "time_limit_hit": true,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 252,
+  "runtime": 2.3807859999942593,
+  "mip_gap": 2.0873537487023238e-06,
+  "time_limit_hit": false,
+  "int_vars": 876
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 264,
+  "runtime": 4.994796200000565,
+  "mip_gap": 1.3527161271541493e-06,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 30,
+  "seed": 1,
+  "interval": 276,
+  "runtime": 3.9116691000017454,
+  "mip_gap": 5.865809339881261e-07,
+  "time_limit_hit": false,
+  "int_vars": 882
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 0,
+  "runtime": 5.5231475999971735,
+  "mip_gap": 0.0026449997029764855,
+  "time_limit_hit": true,
+  "int_vars": 1182
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 12,
+  "runtime": 5.357052999999723,
+  "mip_gap": 0.0024574227407904567,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 24,
+  "runtime": 5.389136799996777,
+  "mip_gap": 0.0024646300658988257,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 36,
+  "runtime": 3.927602299998398,
+  "mip_gap": 1.959540301430546e-06,
+  "time_limit_hit": false,
+  "int_vars": 1194
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 48,
+  "runtime": 5.023352199998044,
+  "mip_gap": 6.700754100091555e-06,
+  "time_limit_hit": false,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 60,
+  "runtime": 0.967457500002638,
+  "mip_gap": 0.0009507182144091629,
+  "time_limit_hit": false,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 72,
+  "runtime": 5.222366500005592,
+  "mip_gap": 0.0018774651224477954,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 84,
+  "runtime": 4.945524300004763,
+  "mip_gap": 4.51397449239029e-07,
+  "time_limit_hit": false,
+  "int_vars": 1194
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 96,
+  "runtime": 4.971468600000662,
+  "mip_gap": 1.1638327860006724e-06,
+  "time_limit_hit": false,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 108,
+  "runtime": 4.312863999999536,
+  "mip_gap": 1.0110659289715095e-06,
+  "time_limit_hit": false,
+  "int_vars": 1182
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 120,
+  "runtime": 5.2035023999997065,
+  "mip_gap": 0.002003403264603579,
+  "time_limit_hit": true,
+  "int_vars": 1194
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 132,
+  "runtime": 4.4921268000034615,
+  "mip_gap": 6.977683296421011e-06,
+  "time_limit_hit": false,
+  "int_vars": 1194
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 144,
+  "runtime": 5.108711000000767,
+  "mip_gap": 0.001725302409715569,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 156,
+  "runtime": 5.036282499997469,
+  "mip_gap": 2.9582237132015094e-06,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 168,
+  "runtime": 4.63608910000039,
+  "mip_gap": 7.856867014434225e-07,
+  "time_limit_hit": false,
+  "int_vars": 1182
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 180,
+  "runtime": 5.040787899997667,
+  "mip_gap": 0.0008379525801343463,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 192,
+  "runtime": 5.1613161000059335,
+  "mip_gap": 0.002973774763078722,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 204,
+  "runtime": 5.2505019000018365,
+  "mip_gap": 0.0037264015112856647,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 216,
+  "runtime": 5.131398999998055,
+  "mip_gap": 0.002806421274325905,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 228,
+  "runtime": 5.101356899998791,
+  "mip_gap": 0.0016972748227104815,
+  "time_limit_hit": true,
+  "int_vars": 1194
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 240,
+  "runtime": 5.435442399997555,
+  "mip_gap": 0.0027351769300045384,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 252,
+  "runtime": 5.2830627000003005,
+  "mip_gap": 0.004441103512781849,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 264,
+  "runtime": 5.023494400003983,
+  "mip_gap": 3.915446536076965e-06,
+  "time_limit_hit": false,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 0,
+  "interval": 276,
+  "runtime": 5.154944000001706,
+  "mip_gap": 0.0027012265022440703,
+  "time_limit_hit": true,
+  "int_vars": 1188
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 0,
+  "runtime": 5.046998499994515,
+  "mip_gap": 0.003266794523532563,
+  "time_limit_hit": true,
+  "int_vars": 1194
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 12,
+  "runtime": 5.068094599999313,
+  "mip_gap": 0.0018728487824722644,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 24,
+  "runtime": 5.231557299994165,
+  "mip_gap": 0.0019910209920636595,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 36,
+  "runtime": 5.03909919999569,
+  "mip_gap": 1.1641033107720404e-06,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 48,
+  "runtime": 5.27334740000515,
+  "mip_gap": 0.004641079061721893,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 60,
+  "runtime": 5.452447400006349,
+  "mip_gap": 0.005685564933061327,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 72,
+  "runtime": 5.106380100005481,
+  "mip_gap": 0.0019831622466771376,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 84,
+  "runtime": 1.7977596999990055,
+  "mip_gap": 0.0009978552422764768,
+  "time_limit_hit": false,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 96,
+  "runtime": 5.274883799997042,
+  "mip_gap": 0.002458691298777206,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 108,
+  "runtime": 5.051951399997051,
+  "mip_gap": 0.0031919457424770745,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 120,
+  "runtime": 5.100901899997552,
+  "mip_gap": 0.0068884505619310485,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 132,
+  "runtime": 5.075043500000902,
+  "mip_gap": 0.006963529183766311,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 144,
+  "runtime": 5.275566800002707,
+  "mip_gap": 0.004803397667940906,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 156,
+  "runtime": 5.437306799998623,
+  "mip_gap": 0.0033706484829612647,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 168,
+  "runtime": 3.2174245999995037,
+  "mip_gap": 0.0006331526979061994,
+  "time_limit_hit": false,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 180,
+  "runtime": 5.115834000003815,
+  "mip_gap": 0.0010867836526669216,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 192,
+  "runtime": 1.1483772999999928,
+  "mip_gap": 0.0009281764856018465,
+  "time_limit_hit": false,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 204,
+  "runtime": 5.076583499998378,
+  "mip_gap": 0.0037679925669847182,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 216,
+  "runtime": 5.0451767000049585,
+  "mip_gap": 0.0074400010204368336,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 228,
+  "runtime": 5.04677939999965,
+  "mip_gap": 0.002093162548480962,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 240,
+  "runtime": 5.400145100000373,
+  "mip_gap": 0.006201392619451465,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 252,
+  "runtime": 2.205435600000783,
+  "mip_gap": 0.0008310261501465818,
+  "time_limit_hit": false,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 264,
+  "runtime": 5.329215400000976,
+  "mip_gap": 0.005754876479430013,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ },
+ {
+  "n_hosts": 50,
+  "seed": 1,
+  "interval": 276,
+  "runtime": 5.228079100001196,
+  "mip_gap": 0.004791514705999703,
+  "time_limit_hit": true,
+  "int_vars": 1200
+ }
+]

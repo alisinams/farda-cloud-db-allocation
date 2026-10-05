@@ -1,0 +1,24 @@
+{
+ "figure": "Fig3",
+ "script": "fig3_forecast.py",
+ "palette": "ASE file Ocean Sunset.ase",
+ "final_width_mm": 174,
+ "design_width_in": 8.56,
+ "print_scale": 0.806,
+ "min_text_pt": 9.7,
+ "max_text_pt": 12.9,
+ "qc": "overlaps 0 | legends outside | palette OK | 8 pt floor OK | exports verified (6 files)",
+ "encodes": "MAE mean and SD over the 4 held-out days (rolling origin); shared MAE axis; LightGBM drawn as horizontal reference lines in (b)",
+ "exceptions": [
+  "Springer overrides: 174 mm, print scale 0.80 (8 pt floor), lowercase panel letters, file stem Fig3",
+  "per-panel legends above the axes (encodings differ between panels, so no shared legend)"
+ ],
+ "files": [
+  "Fig3_white.pdf",
+  "Fig3_white.tiff",
+  "Fig3_white.png",
+  "Fig3_transparent.pdf",
+  "Fig3_transparent.tiff",
+  "Fig3_transparent.png"
+ ]
+}
